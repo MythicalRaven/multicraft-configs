@@ -1,5 +1,5 @@
 [config]
-name = Mod: Forge 1.12.2
+name = Mod: Forge 1.12.2.2611
 source = https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.2.2611/forge-1.12.2-14.23.2.2611-universal.jar
 configSource = https://raw.githubusercontent.com/MythicalRaven/multicraft-configs/master/forge1.12.2.2611
 
